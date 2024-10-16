@@ -81,8 +81,9 @@ endmodule<br>
 <br>
 <br>
 
-Developed by:MURALI S <br>
-RegisterNumber: 212222230088
+Developed by:kathiravan
+
+RegisterNumber: 212222230063
 
  
 *Logic symbol & Truthtable*
